@@ -7,7 +7,7 @@
 
 ## __About Me__ 
 
->Hi. I'm Uiseo Whang. 24 year olds. Majoring in Software department. <br>I can use Python, C, C++, and JAVA. And I can speak Japanese fluently. <br>Thank you for visiting my homepage!
+>Hello. I'm Uiseo Whang. 24 year olds. Majoring in Software department in Sungkyunkwan University. <br>I can use Python, C, C++, and JAVA. And I can speak Japanese fluently. <br>Thank you for visiting my homepage!
 
 ## __INFO__ 
 ###  __University__: [<img src = "./img/skku.logo.png" height = 50>](https://www.skku.edu/skku/index.do)
